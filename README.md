@@ -16,7 +16,7 @@ A place to learn more about [git], and try things.
 -->
 ## Resources
 
-- [ ] [Wikipedia](https://en.wikipedia.org/wiki/Git)
+- [ ] [wikipedia](https://en.wikipedia.org/wiki/Git)
 - [ ] [git-scm](https://git-scm.com/)
 - [ ] [w3schools](https://www.w3schools.com/git/default.asp)
 
