@@ -15,6 +15,11 @@ A place to learn more about [git], and try things.
 - [x] project-title (file-path) *last updated: ##/##/##*
 -->
 ## Resources
+
+- [ ] [Wikipedia](https://en.wikipedia.org/wiki/Git)
+- [ ] [git-scm](https://git-scm.com/)
+- [ ] [w3schools](https://www.w3schools.com/git/default.asp)
+
 <!--
 - [ ] [title](link)
 - [x] [title](link) *last review: ##/##/##*
