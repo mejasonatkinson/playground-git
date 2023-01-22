@@ -7,3 +7,5 @@ A place to learn more about git, and try things.
 ## Projects
 
 ## Resources
+
+- [ ] [Git Tutorial; w3schools](https://www.w3schools.com/git/default.asp)
