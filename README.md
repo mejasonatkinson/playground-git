@@ -16,12 +16,12 @@ A place to learn more about git, and try things.
 
 - [ ] [Git; Codecademy](https://www.codecademy.com/learn/learn-git)
 
-- [ ] [; Fireship]() https://www.youtube.com/watch?v=ecK3EnyGD8o
+- [ ] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o)
 
-- [ ] [; Fireship]() https://www.youtube.com/watch?v=hwP7WQkmECE
+- [ ] [Git Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
 
-- [ ] [; Fireship]() https://www.youtube.com/watch?v=HkdAHXoRtos
+- [ ] [Git It? How to use Git and Github; Fireship](https://www.youtube.com/watch?v=HkdAHXoRtos)
 
-- [ ] [; Fireship]() https://www.youtube.com/watch?v=8lGpZkjnkt4
+- [ ] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
-- [ ] [; Fireship]() https://www.youtube.com/watch?v=eB0nUzAI7M8
+- [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8)
