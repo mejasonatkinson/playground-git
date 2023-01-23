@@ -12,7 +12,7 @@ A place to learn more about git, and try things.
 <!-- notes/git-explained-in-100-seconds--fireship.md -->
 <!-- notes/git-it?-how-to-use-git-and-github--fireship.md -->
 <!-- notes/github-pull-request-in-100-Seconds-git-a-free-sticker--fireship.md -->
-- [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](notes/5-ways-to-devops-ify-your-app-github-actions-tutorial--fireship.md)
+- [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](notes/5-ways-to-devops-ify-your-app-github-actions-tutorial--fireship.md) *last updated: 23/01/23*
 <!-- notes/source-control-with-git--visual-studio.md -->
 
 ## Projects
@@ -35,6 +35,6 @@ A place to learn more about git, and try things.
 
 - [ ] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
-- [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8)
+- [x] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8) *last review: 23/01/23*
 
 - [ ] [Source Control with Git; Visual Studio](https://code.visualstudio.com/docs/sourcecontrol/overview)
