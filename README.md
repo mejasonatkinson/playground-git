@@ -12,7 +12,7 @@ A place to learn more about git, and try things.
 <!-- notes/git-explained-in-100-seconds--fireship.md -->
 <!-- notes/git-it?-how-to-use-git-and-github--fireship.md -->
 <!-- notes/github-pull-request-in-100-Seconds-git-a-free-sticker--fireship.md -->
-<!-- notes/5-ways-to-devops-ify-your-app-github-actions-tutorial--fireship.md -->
+- [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](notes/5-ways-to-devops-ify-your-app-github-actions-tutorial--fireship.md)
 <!-- notes/source-control-with-git--visual-studio.md -->
 
 ## Projects
