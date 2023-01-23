@@ -4,6 +4,11 @@ A place to learn more about git, and try things.
 
 ## Notes
 
+<!-- notes/git-tutorial--w3schol.md -->
+<!-- notes/git-docs.md -->
+<!-- notes/git--wikipedia.md -->
+<!-- notes/git--codecademy.md -->
+
 ## Projects
 
 ## Resources
@@ -25,3 +30,5 @@ A place to learn more about git, and try things.
 - [ ] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
 - [ ] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8)
+
+- [ ] [Source Control with Git; Visual Studio](https://code.visualstudio.com/docs/sourcecontrol/overview)
