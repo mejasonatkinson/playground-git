@@ -1,5 +1,7 @@
 # [Git It? How to use Git and Github; Fireship](https://www.youtube.com/watch?v=HkdAHXoRtos)
 
+## Git
+
 Git is like a history book for your code.
 
 Services such as GitHub make open source software accessible to the world.
@@ -55,4 +57,23 @@ You can merge a feature into the master by running:
 You can squash all the commits you have done on a feature into 1 commite by running: 
 `git merge feature --squash`
 
-GitHub
+## GitHub
+
+Create a repo, then run:
+`git remote add origin https://github.com/../...git` to connect your code to the remote repo. then run:
+`git push -u origin master` to push your code to the remote repo. Refresh the page to see if on github.
+
+Fork
+
+This copies the code from the source and creates a new repo on your account.
+Run `git clone https://github.com/../...git` to clone the repo to your local machine.
+
+`git cehckout -b mysticker`
+
+`npm run address` this will ask you for your name and address. and encrypt it for you to store in `stickers/your-github-username.txt`
+
+`git add .`
+`git commit -m ""`
+`git push origin mysticker`
+
+Compare & pull request
