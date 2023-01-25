@@ -39,9 +39,9 @@ A place to learn more about git, and try things.
 
 - [ ] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o)
 
-- [x] [Git Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [x] [Git Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE) *last review: 24/01/23*
 
-- [x] [Git It? How to use Git and Github; Fireship](https://www.youtube.com/watch?v=HkdAHXoRtos)
+- [x] [Git It? How to use Git and Github; Fireship](https://www.youtube.com/watch?v=HkdAHXoRtos) *last review: 24/01/23*
 
 - [ ] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
