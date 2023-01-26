@@ -13,11 +13,12 @@ A place to learn more about git, and try things.
 <!-- notes/git--codecademy.md -->
 
 <!-- notes/13-advanced-(but-useful)-git-techniques-and-Shortcuts--fireship.md -->
+
 - [x] [Git Explained in 100 Seconds; Fireship](notes/git-explained-in-100-seconds--fireship.md) *last updated: 24/01/23*
 
 - [x] [Git It? How to use Git and Github; Fireship](notes/git-it-how-to-use-git-and-github--fireship.md) *last updated: 25/01/23*
 
-<!-- - [ ] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](notes/github-pull-request-in-100-Seconds-git-a-free-sticker--fireship.md) -->
+- [x] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](notes/github-pull-request-in-100-Seconds-git-a-free-sticker--fireship.md) *last updated: 26/01/23*
 
 - [x] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](notes/5-ways-to-devops-ify-your-app-github-actions-tutorial--fireship.md) *last updated: 23/01/23*
 
@@ -41,9 +42,9 @@ A place to learn more about git, and try things.
 
 - [x] [Git Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE) *last review: 24/01/23*
 
-- [x] [Git It? How to use Git and Github; Fireship](https://www.youtube.com/watch?v=HkdAHXoRtos) *last review: 24/01/23*
+- [x] [Git It? How to use Git and Github; Fireship](https://www.youtube.com/watch?v=HkdAHXoRtos) *last review: 25/01/23*
 
-- [ ] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+- [x] [GitHub Pull Request in 100 Seconds - Git a FREE sticker; Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4) *last review: 26/01/23*
 
 - [x] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8) *last review: 23/01/23*
 
