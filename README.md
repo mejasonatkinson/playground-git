@@ -12,7 +12,7 @@ A place to learn more about git, and try things.
 
 <!-- notes/git--codecademy.md -->
 
-<!-- notes/13-advanced-(but-useful)-git-techniques-and-Shortcuts--fireship.md -->
+- [x] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](notes/13-advanced-(but-useful)-git-techniques-and-Shortcuts--fireship.md) *last updated: 27/01/23*
 
 - [x] [Git Explained in 100 Seconds; Fireship](notes/git-explained-in-100-seconds--fireship.md) *last updated: 24/01/23*
 
@@ -38,7 +38,7 @@ A place to learn more about git, and try things.
 
 - [ ] [Git; Codecademy](https://www.codecademy.com/learn/learn-git)
 
-- [ ] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o)
+- [ ] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o) *last review: 27/01/23*
 
 - [x] [Git Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE) *last review: 24/01/23*
 
