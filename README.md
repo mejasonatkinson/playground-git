@@ -38,7 +38,7 @@ A place to learn more about git, and try things.
 
 - [ ] [Git; Codecademy](https://www.codecademy.com/learn/learn-git)
 
-- [ ] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o) *last review: 27/01/23*
+- [x] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o) *last review: 27/01/23*
 
 - [x] [Git Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE) *last review: 24/01/23*
 
