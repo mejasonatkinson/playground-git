@@ -24,7 +24,7 @@ A place to learn more about git, and try things.
 
 - [x] [DevOps CI/CD Explained in 100 Seconds; Fireship](notes/devops-ci-cd-explained-in-100-seconds--fireship.md) *last updated: 27/01/23*
 
-<!-- notes/source-control-with-git--visual-studio.md -->
+- [ ] [Source Control with Git; Visual Studio](notes/source-control-with-git--visual-studio.md) *last updated: 28/01/23*
 
 ## Projects
 
@@ -48,6 +48,6 @@ A place to learn more about git, and try things.
 
 - [x] [5 Ways to DevOps-ify your App - Github Actions Tutorial; Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8) *last review: 23/01/23*
 
-- [ ] [Source Control with Git; Visual Studio](https://code.visualstudio.com/docs/sourcecontrol/overview)
-
 - [x] [DevOps CI/CD Explained in 100 Seconds; Fireship](https://www.youtube.com/watch?v=scEDHsr3APg) *last review: 27/01/23*
+
+- [ ] [Source Control with Git; Visual Studio](https://code.visualstudio.com/docs/sourcecontrol/overview) *last review: 28/01/23*
