@@ -50,8 +50,7 @@ On the Source Control panel click 'Publish Branch', and it will walk you through
 
 In the command palette search: 'Git: Clone' to clone a repo from your GitHub, via url.
 
-
-### GIT SCM
+**GIT SCM**
 
 - [Documentation](https://git-scm.com/documentation)
 - [Book](https://git-scm.com/book)
@@ -68,7 +67,42 @@ You can also access all git commands from the Command Palette by pressing `Ctrl+
 
 ## [Git: Commits in Visual Studio Code](https://www.youtube.com/watch?v=E6ADS2k8oNQ)
 
-*... notes needed for video*
+**Add**
+
+On the Source Control panel click the '+' sign next to a file to add it to staging.
+
+**Reset**
+
+On the Source Control panel click the '-' sign next to a file to unstage a file.
+
+**Amend**
+
+On the Source Control panel click the 3 dots '...' and select Commit > Commit Staged (Amend) 
+
+**Rollback**
+
+On the Source Control panel click the 3 dots '...' and select Commit > Undo Last Commit
+
+OR Rollback multiple commits by clicking the 3 dots '...' and select Commit > Undo Last Commit, as many times as needed.
+
+**Stash**
+
+On the Source Control panel click the 3 dots '...' and select Stash > Stash > Assign a name.
+OR
+Stash > Stash (Include Untracked) > Assign a name.
+
+To restore use:
+Stash > Apply Stash
+OR
+Stash > Pop Stash
+
+These are also available from the Command Palette by pressing `Ctrl+Shift+P` and typing 'stash'.
+
+**Clean**
+
+On the Source Control panel click the 'undo arrow' sign next to a file to discard.
+
+On the Source Control panel click the 3 dots '...' and select 
 
 In order to use git features, you can open a folder containing a git repository or clone from a URL, using the Clone Repository button.
 
