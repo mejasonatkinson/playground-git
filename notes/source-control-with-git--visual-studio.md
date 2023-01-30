@@ -1,6 +1,5 @@
 # [Source Control with Git; Visual Studio](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
-
 Visual Studio Code has integrated **source control management (SCM)** and includes Git support out-of-the-box. Many other source control providers are available through extensions on the VS Code Marketplace.
 
 ## [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://www.youtube.com/watch?v=i_23KUAEtUM)
@@ -110,6 +109,28 @@ For a GitHub repository, you would find the URL from the GitHub Code dialog.
 
 ## [Git: branches in Visual Studio Code](https://www.youtube.com/watch?v=b9LTz6joMf8)
 
-*... notes needed for video*
+**Creating Branches**
 
-*... to be continued*
+from the Command Palette by pressing `Ctrl+Shift+P` and searching for 'Git: Create Branch'.
+
+Set name.
+
+This creates and moves you to the branch.
+
+**Listing Branches**
+
+Click the name of the current branch, in the bottom left hand corner to display a list of local branches.
+
+**Switching Branches**
+
+Click the name of the current branch, in the bottom left hand corner to display a list of local branches.
+
+Click on a Branch name to switch to that branch.
+
+**Renaming Branches**
+
+From the Command Palette by pressing `Ctrl+Shift+P` and searching for 'Git: Rename Branch' to rename the branch you are on.
+
+**Deleting Branches**
+
+From the Command Palette by pressing `Ctrl+Shift+P` and searching for 'Git: Delete Branch' to delete a branch, you are NOT currently on.
