@@ -4,11 +4,11 @@ A place to learn more about git, and try things.
 
 ## Notes
 
-<!-- notes/git-tutorial--w3school.md -->
+- [ ] [Git Tutorial; w3schools](notes/git-tutorial--w3school.md)
 
 <!-- notes/git-docs.md -->
 
-<!-- notes/git--wikipedia.md -->
+- [ ] [Git; Wikipedia](notes/git--wikipedia.md)
 
 <!-- notes/git--codecademy.md -->
 
