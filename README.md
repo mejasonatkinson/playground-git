@@ -8,7 +8,7 @@ A place to learn more about git, and try things.
 
 <!-- notes/git-docs.md -->
 
-- [ ] [Git; Wikipedia](notes/git--wikipedia.md)
+- [ ] [Git; Wikipedia](notes/git--wikipedia.md) *last updated: 31/01/23*
 
 <!-- notes/git--codecademy.md -->
 
@@ -34,7 +34,7 @@ A place to learn more about git, and try things.
 
 - [ ] [Git Docs](https://git-scm.com/docs)
 
-- [ ] [Git; Wikipedia](https://en.wikipedia.org/wiki/Git)
+- [ ] [Git; Wikipedia](https://en.wikipedia.org/wiki/Git) *last review: 31/01/23*
 
 - [ ] [Git; Codecademy](https://www.codecademy.com/learn/learn-git)
 
