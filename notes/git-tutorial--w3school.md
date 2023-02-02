@@ -21,7 +21,8 @@ It is important to configure git, so it knows who you are. This can be done by r
 The keyword global is used to set the global values for the name and email for every repo. you can remove the `--global` keyword if you only want to set the values for the name and email address, for the repo you are in.
 
 ----
-*The following is Git commands, and are just common terminal commands*
+
+*The following are not Git commands, and are just common terminal commands*
 
 User `mkdir` to make a directory/new folder
 
@@ -30,6 +31,7 @@ User `mkdir` to make a directory/new folder
 Use `cd` to change directory/move to the new folder
 
 `cd myproject`
+
 ----
 
 You can then start/initialize Git by running
@@ -37,3 +39,17 @@ You can then start/initialize Git by running
 `git init`
 
 ## [Git New Files](https://www.w3schools.com/git/git_new_files.asp?remote=github)
+
+In side of the directory/folder you can now add files, for example `index.html`
+
+----
+
+*The following is not a Git command, and is just a common terminal command*
+
+Using `ls` can list out all the files with the directory/folder.
+
+----
+
+Runing the command `git status` will show the untracked file, and may also display details around how to add the file or files to a commit.
+
+## [Git Staging Environment](https://www.w3schools.com/git/git_staging_environment.asp?remote=github)
