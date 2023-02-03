@@ -53,3 +53,12 @@ Using `ls` can list out all the files with the directory/folder.
 Runing the command `git status` will show the untracked file, and may also display details around how to add the file or files to a commit.
 
 ## [Git Staging Environment](https://www.w3schools.com/git/git_staging_environment.asp?remote=github)
+
+As you are working, you may be adding, editing and removing files. But whenever you hit a milestone or finish a part of the work, you should add the files to a **Staging** Environment.
+
+Staged files are files that are ready to be committed to the repository you are working on.
+
+You can add a file by running the  `git add` followed by the name of the file for example `git add index.html` or to add all the files in the directory/folder that have been edited, you can run `git add .` or `git add --all` or `git add -A`
+
+The `git status` command will now show the tracked changes, which are ready to be commited.
+
