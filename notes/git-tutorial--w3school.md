@@ -62,3 +62,20 @@ You can add a file by running the  `git add` followed by the name of the file fo
 
 The `git status` command will now show the tracked changes, which are ready to be commited.
 
+## [Git Commit](https://www.w3schools.com/git/git_commit.asp?remote=github)
+
+Adding commits keep track of our progress and changes as we work. Git considers each commit change point or "save point". It is a point in the project you can go back to if you find a bug, or want to make a change.
+
+When we commit, we should always include a message.
+
+By adding clear messages to each commit, it is easy for yourself (and others) to see what has changed and when.
+
+You make a commit by using the following command: `git commit -m "First commit"` the text within the "quote marks" is the message connected to the commit.
+
+To view the history of commits for a repository, you can use the log command `git log`
+
+## [Git Help](https://www.w3schools.com/git/git_help.asp?remote=github)
+
+There is alot of commands, to help, you can use the help command to see all commands (`git help --all`) or commands relating to a certain command (`git command -help`), for example `git commit -help`
+
+## [Git Branch](https://www.w3schools.com/git/git_branch.asp?remote=github)
