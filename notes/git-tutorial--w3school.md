@@ -94,6 +94,22 @@ After you have made changes and run the commands `git add .` `git commit -m "Bra
 
 ## [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github)
 
+When you branch/project is ready you will want to merge it into the main/master branch.
 
+To merge into a branch, you must first be on the branch you wish to merge into.
 
+Running `git checkout master` will move you to the master branch.
 
+Then to merge the branch we had previously been working on run `git merge new-branch`.
+
+Once merged you can run `git branch -d new-branch` to delete the branch locally from your machine.
+
+**Merge conflicts** are caused when there are multiple branches and the same section of code is edited in both branches. When you run the `git merge` command. Use the `git status` command to confirm the conflict and check where the conflict is happening. Open up the file(s) highlighted in the status check to fix the merge conflict.
+
+Use `git status` again to confirm that the merge conflict(s) have been resolved.
+
+Create a commit to confirm the merge. `git commit -m "merged with new-branch after fixing conflicts"`
+
+After this you can then delete the mered branch (`git branch -d new-branch`).
+
+## [Git GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github)
