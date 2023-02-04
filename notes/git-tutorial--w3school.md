@@ -79,3 +79,21 @@ To view the history of commits for a repository, you can use the log command `gi
 There is alot of commands, to help, you can use the help command to see all commands (`git help --all`) or commands relating to a certain command (`git command -help`), for example `git commit -help`
 
 ## [Git Branch](https://www.w3schools.com/git/git_branch.asp?remote=github)
+
+In Git, a branch is a new/separate version of the main repository. Switching between branches and work on different projects without them interfering with each other.
+
+To create a new branch you use the command `git branch new-branch` "new-branch" is referring to the name of the branch you are creating.
+
+To confirm that the branch has been created you can run `git branch` which will list out all the branches you have locally. The `*` marker tells you which branch you are currently on.
+
+To switch to the new branch you can use the command `git checkout new-branch` you can check to make sure it has changed by running the `git branch` command again.
+
+You can also combine these commands by running `git checkout -b new-branch` which will create, and move you onto the newly created branch.
+
+After you have made changes and run the commands `git add .` `git commit -m "Branch Changes"` the branch you are working on is different from your main/master branch.
+
+## [Git Branch Merge](https://www.w3schools.com/git/git_branch_merge.asp?remote=github)
+
+
+
+
