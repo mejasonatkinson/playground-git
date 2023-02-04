@@ -4,13 +4,13 @@ A place to learn more about git, and try things.
 
 ## Notes
 
-- [ ] [Git Tutorial; w3schools](notes/git-tutorial--w3school.md) *last updated: 01/02/23*
+- [ ] [Git Tutorial; w3schools](notes/git-tutorial--w3school.md) *last updated: 04/02/23*
 
-<!-- notes/git-docs.md -->
+- [ ] [Git Docs](notes/git-docs.md) 
 
 - [ ] [Git; Wikipedia](notes/git--wikipedia.md) *last updated: 31/01/23*
 
-<!-- notes/git--codecademy.md -->
+- [ ] [Git; Codecademy](notes/git--codecademy.md)
 
 - [x] [13 Advanced (but useful) Git Techniques and Shortcuts; Fireship](notes/13-advanced-(but-useful)-git-techniques-and-Shortcuts--fireship.md) *last updated: 27/01/23*
 
@@ -30,7 +30,7 @@ A place to learn more about git, and try things.
 
 ## Resources
 
-- [ ] [Git Tutorial; w3schools](https://www.w3schools.com/git/default.asp) *last review: 01/02/23*
+- [ ] [Git Tutorial; w3schools](https://www.w3schools.com/git/default.asp) *last review: 04/02/23*
 
 - [ ] [Git Docs](https://git-scm.com/docs)
 
