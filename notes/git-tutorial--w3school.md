@@ -144,3 +144,11 @@ Scenario 1: We already have a local git repo...
 `git push --set-upstream origin master`
 
 Go back into GitHub, you will see that the repository has been updated.
+
+## [Git GitHub Edit Code](https://www.w3schools.com/git/git_remote_edit_code.asp?remote=github)
+
+As well as hosting our code, GitHub can also be used to edit the code.
+
+Click the little pencil icon when you have selected a file to be able to edit the file.
+
+After you have made the changes, scoll to the bottom of the page. You will find a Commit changes dialog box, where you can add a commit messsage and commit description, as well as the ability to add the change as a new branch. Clicking Commit changes will commit the change.
