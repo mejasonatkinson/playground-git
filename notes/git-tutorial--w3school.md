@@ -113,3 +113,34 @@ Create a commit to confirm the merge. `git commit -m "merged with new-branch aft
 After this you can then delete the mered branch (`git branch -d new-branch`).
 
 ## [Git GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github)
+
+https://www.github.com/
+
+You can create a new repository on GitHub in accouple of different ways.
+
+On the top right of the nav bar, you can click on the plus '+' and then click 'New repository'
+
+...
+
+This will take you to a details where you can fill in any relevant information about the repository.
+The only required fields are the Owner, Repository name and whether it should be a Public or Private repository.
+
+Click 'Create repository' to create the repository.
+
+After this sstep, a Quick setup screen will be displayed. 
+
+There are 3 methods which we can use to link this repo to our local git instance.
+
+1. The GitHub Desktop App
+2. HTTPS
+3. SSH
+
+**THIS IS WHERE I GET STUCK**
+
+Scenario 1: We already have a local git repo...
+
+`git remote add origin https://github.com/user-name/git-repo-name.git`
+
+`git push --set-upstream origin master`
+
+Go back into GitHub, you will see that the repository has been updated.
