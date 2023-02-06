@@ -152,3 +152,20 @@ As well as hosting our code, GitHub can also be used to edit the code.
 Click the little pencil icon when you have selected a file to be able to edit the file.
 
 After you have made the changes, scoll to the bottom of the page. You will find a Commit changes dialog box, where you can add a commit messsage and commit description, as well as the ability to add the change as a new branch. Clicking Commit changes will commit the change.
+
+## [Git Pull from GitHub](https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github)
+
+The `pull` command is a combination of 2 different commands `fetch` and `merge`.
+
+`fetch` gets all the change history of a tracked branch/repo
+
+If you run `git fetch origin` on your local repo. this will get all the updates which have been made on GitHub.
+
+If you run `git status` you will see what has happened and `git log origin/master` will show you the file(s) which have been updated. 
+`git diff origin/master` can show you the differences between the local master and origin/master.
+
+The Merge command can then be run `git merge origin/master`.
+
+To confirm this has been successful, run `git status` again.
+
+To simplify this whole process we can run the `pull` command. `git pull origin`.
