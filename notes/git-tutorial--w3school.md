@@ -169,3 +169,14 @@ The Merge command can then be run `git merge origin/master`.
 To confirm this has been successful, run `git status` again.
 
 To simplify this whole process we can run the `pull` command. `git pull origin`.
+
+## [Git Push to GitHub](https://www.w3schools.com/git/git_push_to_remote.asp?remote=github)
+
+The `push` command pushes the changes to a remote repo such as GitHub.
+
+1. Make a change...
+2. Add change to staging `git add .`
+3. Commit the change `git commit -m "make another change... example"`
+4. Check status `git status`, you will see that your local branch is ahead of 'origin/master'
+5. Push the change up to GitHub `git push origin`
+6. Check GitHub to confirm that the change has been updated
