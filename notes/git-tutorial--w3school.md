@@ -184,3 +184,15 @@ The `push` command pushes the changes to a remote repo such as GitHub.
 ## [Git GitHub Branch](https://www.w3schools.com/git/git_remote_branch.asp?remote=github)
 
 On the repo on GitHub you can create a new branch by selecting the branch name (below 'code' on the top left). This will open up a dialog box where you can ender a new repo name or see a select of the other branches on the repo, if there is any.
+
+## [Git Pull Branch from GitHub](https://www.w3schools.com/git/git_branch_pull_from_remote.asp?remote=github)
+
+Run `git pull` to make sure our local code base is up-to-date.
+
+Run `git status`
+
+Run `git branch` we do not have the new branch listed on our local Git. But if we run `git branch -a` this will show the remote branchs.
+
+Run `git checkout remote-branch-name` and check to make sure it is up-to-date by running `git pull`
+
+Run `git branch` again and you will now see if on your local machine.
