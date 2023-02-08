@@ -206,3 +206,9 @@ First create and move to a new branch `git checkout -b local-branch-name`
 Then update something, in the branch and run `git add .` and `git commit -m "local-branch-name commit message"`
 
 To push the change, run `git push origin local-branch-name`
+
+**NOT SURE IF THIS IS CORRECT? USED TO USING --UPSTREAM**
+
+You will now see this branch on GitHub.
+
+We can now merge the changes on GitHub, this is done by creating pull request. If there is no conflicts it will then ask you to merge pull request, and give you the option to delete the branch.
