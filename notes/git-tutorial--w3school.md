@@ -196,3 +196,13 @@ Run `git branch` we do not have the new branch listed on our local Git. But if w
 Run `git checkout remote-branch-name` and check to make sure it is up-to-date by running `git pull`
 
 Run `git branch` again and you will now see if on your local machine.
+
+## [Git Push Branch to GitHub](https://www.w3schools.com/git/git_branch_push_to_remote.asp?remote=github)
+
+To do the reverse and push a local branch.
+
+First create and move to a new branch `git checkout -b local-branch-name`
+
+Then update something, in the branch and run `git add .` and `git commit -m "local-branch-name commit message"`
+
+To push the change, run `git push origin local-branch-name`
