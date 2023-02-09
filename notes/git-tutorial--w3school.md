@@ -223,3 +223,22 @@ The GitHub flow works like this:
 - Review
 - Deploy
 - Merge
+
+## [Git GitHub Pages](https://www.w3schools.com/git/git_remote_pages.asp?remote=github)
+
+With GitHub pages, GitHub allows you to host a webpage from your repository.
+
+GitHub pages need a special name and setup to work, so we start by creating a new repository.
+
+This repository needs a special name to function as a GitHub page. It needs to be your GitHub username, followed by .github.io: `user-name.github.io`
+
+We add this new repository as a remote for our local repository, we are calling it gh-page (for GitHub Pages).
+
+- `git remote add gh-page https://github.com/user-name/user-name.github.io.git`
+- `git push gh-page master`
+
+Check that github has received all the files.
+
+Select Settings from the menu, it should read that Your site is published.
+
+[w3schools GitHub Page](https://w3schools-test.github.io/)
