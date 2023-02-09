@@ -212,3 +212,14 @@ To push the change, run `git push origin local-branch-name`
 You will now see this branch on GitHub.
 
 We can now merge the changes on GitHub, this is done by creating pull request. If there is no conflicts it will then ask you to merge pull request, and give you the option to delete the branch.
+
+## [Git GitHub Flow](https://www.w3schools.com/git/git_github_flow.asp?remote=github)
+
+The GitHub flow works like this:
+
+- Create a new Branch
+- Make changes and add Commits
+- Open a Pull Request
+- Review
+- Deploy
+- Merge
