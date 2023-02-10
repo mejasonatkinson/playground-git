@@ -242,3 +242,13 @@ Check that github has received all the files.
 Select Settings from the menu, it should read that Your site is published.
 
 [w3schools GitHub Page](https://w3schools-test.github.io/)
+
+## [Git GitHub Fork](https://www.w3schools.com/git/git_remote_fork.asp?remote=github)
+
+How to add to someone else's Repository?
+
+At the heart of Git is collaboration. However, Git does not allow you to add code to someone else's repository without access rights.
+
+A **fork** is a copy of a repository. This is useful when you want to contribute to someone else's project or start your own project based on theirs.
+
+In the top right below the navigation on a repo there is a 'Fork' button, clicking this will make your own copy of the repo.
