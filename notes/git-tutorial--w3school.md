@@ -252,3 +252,29 @@ At the heart of Git is collaboration. However, Git does not allow you to add cod
 A **fork** is a copy of a repository. This is useful when you want to contribute to someone else's project or start your own project based on theirs.
 
 In the top right below the navigation on a repo there is a 'Fork' button, clicking this will make your own copy of the repo.
+
+## [Git Clone from GitHub](https://www.w3schools.com/git/git_clone.asp?remote=github)
+
+After Forking, you have a git repo on github but no code locally...
+
+The git `clone` command creats a complete copy of the repository.
+
+In the repo on github click the green code button and copy the HTTPS or SSH url.
+
+Then in the terminal navigate to directory you want the repo to live, and run the following command:
+
+`git clone https://github.com/user-name/repo-to-fork.git`
+
+When you check your file system (`ls`) you will see a new directory named after the cloned project.
+
+`cd` into the project: `cd forked-repo` and run `git log` to confirm you have the full repo data.
+
+**THIS IS WHERE I GET STUCK/LOST**
+
+Check how the remotes are set up by running: `git remote -v`
+
+`git remote rename origin upstream`
+
+`git remote -v`
+
+`git remote add origin https://github.com/other-user/forked-repo.git`
