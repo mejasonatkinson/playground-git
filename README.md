@@ -28,6 +28,10 @@ A place to learn more about git, and try things.
 
 ## Projects
 
+### Project Ideas
+
+- Spiderman; Spiderverse
+
 ## Resources
 
 - [ ] [Git Tutorial; w3schools](https://www.w3schools.com/git/default.asp) *last review: 11/02/23*
