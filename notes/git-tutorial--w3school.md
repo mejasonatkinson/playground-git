@@ -278,3 +278,21 @@ Check how the remotes are set up by running: `git remote -v`
 `git remote -v`
 
 `git remote add origin https://github.com/other-user/forked-repo.git`
+
+## [Push Changes to Our GitHub Fork](https://www.w3schools.com/git/git_remote_send_pull_request.asp?remote=github)
+
+We have made a lot of changes to our local Git.
+
+Now we push them to our GitHub fork
+
+`git add .`
+
+`git commit -m "local forked changes"`
+
+`git push origin`
+
+Go to GitHub and click Pull request..
+
+Write a message and description, click Create pull request.
+
+Now, any member with access can see the Pull Request. They can also comment on the changes, and if agreed, they can approve the change and Merge the pull request.
