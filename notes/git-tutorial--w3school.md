@@ -296,3 +296,32 @@ Go to GitHub and click Pull request..
 Write a message and description, click Create pull request.
 
 Now, any member with access can see the Pull Request. They can also comment on the changes, and if agreed, they can approve the change and Merge the pull request.
+
+## [Git Ignore and .gitignore](https://www.w3schools.com/git/git_ignore.asp?remote=github)
+
+When sharing your code with others, there are often files or parts of your project, you do not want to share.
+
+- log files
+- temporary files
+- hidden files
+- personal files
+- etc. (bloat files)
+
+Git can specify which files or parts of your project should be ignored by Git using a `.gitignore` file.
+
+Create the file in a editor, or in the commandline using `touch .gitignore`
+
+You can ignore certain file extensions, directorys, or even specific files.
+
+````
+# file extensions
+*.md
+
+# directorys/folders
+temp/
+
+# specific files
+test-data.json
+````
+
+You can also use `.git/info/exclude` instead of `.gitignore`
