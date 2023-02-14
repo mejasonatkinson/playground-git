@@ -325,3 +325,16 @@ test-data.json
 ````
 
 You can also use `.git/info/exclude` instead of `.gitignore`
+
+## [Git Security SSH](https://www.w3schools.com/git/git_security_ssh.asp?remote=github)
+
+SSH is a secure shell network protocol that is used for network management, remote file transfer, and remote system access.
+
+Generating an SSH Key Pair
+
+**NOT SURE IF THIS MAKES SENSE TO ME**
+
+In rhe command line for Linux, Apple, and in the Git Bash for Windows, you can generate an SSH key.
+
+Run: `ssh-keyhen -t rsa -b 4096 -C "user@email.com"`
+You will then been given prompts to follow, including where to store it.
