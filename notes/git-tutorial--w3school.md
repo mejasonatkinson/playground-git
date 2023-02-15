@@ -338,3 +338,21 @@ In rhe command line for Linux, Apple, and in the Git Bash for Windows, you can g
 
 Run: `ssh-keyhen -t rsa -b 4096 -C "user@email.com"`
 You will then been given prompts to follow, including where to store it.
+
+## [Git GitHub Add SSH](https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github)
+
+Use the `clip` command to copy the public key. `clip < /file-path/.ssh/id_rsa.pub`
+
+On GitHub navigate to Settings, from your Profile, select SSH and GPG keys.
+
+Paste the public SSH key into the Key field and click Add SSH Key; you might be prompted for your login details, after which you will see the newily created SSH key.
+
+You can test the connection by running `ssh -T git@github.com` in the terminal.
+
+It should return a message, containing your username.
+
+`Hi user-name! You've successfully authenticated, but GitHub does not provide shell access.`
+
+You can add a new remote via ssh by copying the ssh url from the 'code' button and running the following command: `git remote add ssh-origin git@github.com:user-name/repo-name.git`
+
+Or change a remote origin from HTTPS to SSH with the command: `git remote set-url remote-name git@github.com:user-name/repo-name.git`
