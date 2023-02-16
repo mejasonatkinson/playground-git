@@ -356,3 +356,15 @@ It should return a message, containing your username.
 You can add a new remote via ssh by copying the ssh url from the 'code' button and running the following command: `git remote add ssh-origin git@github.com:user-name/repo-name.git`
 
 Or change a remote origin from HTTPS to SSH with the command: `git remote set-url remote-name git@github.com:user-name/repo-name.git`
+
+## [Git Revert](https://www.w3schools.com/git/git_revert.asp?remote=github)
+
+To revert a commit, takes 2 steps.
+
+1. Find Commit in Log
+
+`git log --oneline`
+
+2. Revert HEAD
+
+`git revert HEAD --no-edit`
