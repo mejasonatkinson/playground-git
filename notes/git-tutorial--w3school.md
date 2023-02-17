@@ -368,3 +368,19 @@ To revert a commit, takes 2 steps.
 2. Revert HEAD
 
 `git revert HEAD --no-edit`
+
+## [Git Reset](https://www.w3schools.com/git/git_reset.asp?remote=github)
+
+To reseting a commit, takes 2 steps.
+
+1. Find Commit in Log
+
+`git log --oneline`
+
+2. Revert HEAD
+
+`git reset 9a9add8` 
+
+(9a9add8, represents the log ID for the commit you want to go back too)
+
+Even though the commits are no longer showing up in the log, it is not removed from Git. If you know the commit hash you can reset to it.
