@@ -384,3 +384,17 @@ To reseting a commit, takes 2 steps.
 (9a9add8, represents the log ID for the commit you want to go back too)
 
 Even though the commits are no longer showing up in the log, it is not removed from Git. If you know the commit hash you can reset to it.
+
+## [Git Amend](https://www.w3schools.com/git/git_amend.asp?remote=github)
+
+commit `--amend` is used to modify the most recent commit.
+
+It combines changes in the staging environment with the latest commit, and creates a new commit.
+
+This new commit replaces the latest commit entirely.
+
+Example:
+
+`git commit -m "Adding plines to reddme"`
+
+`git commit --amend -m "Added lines to README.md"`

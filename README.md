@@ -4,7 +4,7 @@ A place to learn more about git, and try things.
 
 ## Notes
 
-- [ ] [Git Tutorial; w3schools](notes/git-tutorial--w3school.md) *last updated: 17/02/23*
+- [x] [Git Tutorial; w3schools](notes/git-tutorial--w3school.md) *last updated: 18/02/23*
 
 - [ ] [Git Docs](notes/git-docs.md) 
 
@@ -37,7 +37,7 @@ A place to learn more about git, and try things.
 
 ## Resources
 
-- [ ] [Git Tutorial; w3schools](https://www.w3schools.com/git/default.asp) *last review: 17/02/23*
+- [x] [Git Tutorial; w3schools](https://www.w3schools.com/git/default.asp) *last review: 18/02/23*
 
 - [ ] [Git Docs](https://git-scm.com/docs)
 
